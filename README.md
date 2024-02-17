@@ -14,10 +14,13 @@ While there are books and applications I could use I wanted to give myself a goo
 
 ## Make sure you have python3.10+ and pip installed and set up
 
+## Recommended Python Virtual environment - As seen here - https://realpython.com/python-virtual-environments-a-primer/
 1.) Clone the repo:
 ```
 git clone https://github.com/scottieyarn1135/recipes.git
 ```
+Optional - Set up virtual enviroment
+
 2.) run the following commands to install the packages required for the application to work:
 ```
 cd recipes
@@ -48,5 +51,9 @@ python3 main.py food-category-recipes chicken
 Python3 main.py recipes
 what recipe do you want:Teriyaki Chicken Casserole
 
-Recipe is shown 👏
+👏Recipe is shown 👏
 ```
+
+# To do
+ * make a random option
+ * have the recipes you choose save as a txt file
