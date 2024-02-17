@@ -57,3 +57,5 @@ what recipe do you want:Teriyaki Chicken Casserole
 # To do
  * make a random option
  * have the recipes you choose save as a txt file
+ * Find a way to make the latter half of the code look cleaner right now it works but it might be possible using a for each loop.
+ * Improve some of the variable names.
